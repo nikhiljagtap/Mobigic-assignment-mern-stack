@@ -1,0 +1,34 @@
+Instruction to run the code:----
+-----------------------------------------------------------
+1)System Requirement
+	A)Ensure Node is install on your system
+	B)Ensure MongoDb is install on your system
+
+
+
+===============================================================
+For react :--
+Please install Following dependencies in project.
+1)bootstrap Version 4.6.0
+2)React-router-dom
+3)axios
+
+
+
+
+use npm start to start the project
+
+
+
+=================================================================
+For Node JS
+Please install following dependencies in project
+1)express
+2)mongoose
+3)multer
+4)body-parser
+5)dotenv
+6)ejs
+7)bcrypt
+8)cors
+
